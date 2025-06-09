@@ -1,4 +1,5 @@
 📝 Word Counter Tool
+
 A clean, fast, and responsive word counter tool built with HTML, CSS, and JavaScript. This tool helps users quickly analyze their text for word count, character count, sentence count, paragraph count, and more — perfect for writers, students, developers, and content creators.
 
 🚀 Features
