@@ -1,26 +1,59 @@
-<h1>📝 Word Counter Tool</h1>
+# 📝 Word Counter Tool
 
+A fast, responsive, and user-friendly **Word Counter Tool** built with **HTML**, **CSS**, and **JavaScript**. Designed to provide real-time insights into your text — perfect for writers, developers, students, and content creators.
 
-A clean, fast, and responsive word counter tool built with HTML, CSS, and JavaScript. This tool helps users quickly analyze their text for word count, character count, sentence count, paragraph count, and more — perfect for writers, students, developers, and content creators.
+---
 
-🚀 Features
-⚡ Real-time text analysis
+## 🚀 Features
 
-🔤 Counts words, characters (with and without spaces), sentences, and paragraphs
+* ✅ **Live Word & Character Count**
+* 🧠 **Estimated Reading Time**
+* 🔢 **Sentence & Paragraph Count**
+* 🌐 **Language Usage Stats** (HTML vs JavaScript)
+* 📱 **Mobile-Friendly Responsive Design**
+* ⚡ **No Dependencies — Pure Vanilla JS**
 
-🧠 Detects and displays estimated reading time
+---
 
-📊 Language usage breakdown (HTML vs JavaScript)
+## 💡 Use Cases
 
-🎯 Sleek, responsive interface (mobile-friendly)
+* Writing blogs, articles, or social posts
+* Checking assignment or essay length
+* Estimating reading time for any content
+* Analyzing code or markup snippets
 
-💡 Built with clean and modern JavaScript — no libraries needed
+---
 
-🔧 Use Cases
-Checking article length before publishing
+## 📸 Screenshot
 
-Estimating reading time for blogs or essays
+![image](https://github.com/user-attachments/assets/08fd2e0f-a8f5-4384-ba58-c236f476362f)
 
-Analyzing code or markup for educational purposes
+---
 
-Writing assignments, reports, or social media posts
+## 🔧 How to Use
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/YourUsername/Word-Counter-Tool.git
+```
+
+2. Open `index.html` in your browser.
+
+That’s it! No build steps or installs required.
+
+---
+
+## 🌟 Contributing
+
+Pull requests are welcome! If you’d like to improve features, fix bugs, or add support for more languages (like Python or CSS), feel free to fork the repo and submit a PR.
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+Let me know if you want a live demo badge, GitHub Pages deployment instructions, or auto screenshot generator.
