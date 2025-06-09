@@ -55,5 +55,3 @@ Pull requests are welcome! If you’d like to improve features, fix bugs, or add
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-
-Let me know if you want a live demo badge, GitHub Pages deployment instructions, or auto screenshot generator.
